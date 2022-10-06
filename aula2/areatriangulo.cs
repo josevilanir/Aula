@@ -1,13 +1,13 @@
-using system;
+using System;
 
 class MainClass{
   public static void Main (string[] args) {
    double b, h,a;
-   Console.writeLine("Digite a base do triangulo");
-   b = double.parse(conse.readline());
-   console.writeLine("digite a altura do triangulo");
-   h =  double.parse(Console.readLine()_;
+   Console.WriteLine("Digite a base do triangulo");
+   b = double.Parse(Console.ReadLine());
+   Console.WriteLine("digite a altura do triangulo");
+   h =  double.Parse(Console.ReadLine());
    a = b*h/2;
-   console.writeline($"Área = {a:0.00}");
+   Console.WriteLine($"Área = {a:0.00}");
   }
 }

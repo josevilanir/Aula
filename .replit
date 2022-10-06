@@ -1,0 +1,2 @@
+language = "csharp"
+run = "mcs -out:main.exe 'aula2/exercico4.cs' ; mono main.exe"
