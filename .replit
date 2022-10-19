@@ -1,5 +1,5 @@
 language = "csharp"
-run = "mcs -out:main.exe 'aula2/1035URI.cs' ; mono main.exe"
+run = "mcs -out:main.exe 'aula2/3309URI.cs' ; mono main.exe"
 
 [env]
 DOTNET_NOLOGO = "1"
